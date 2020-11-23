@@ -6,7 +6,7 @@ html {
  }
  
  body {
-     width: 70%;
+     width: 60%;
      margin: 20px auto;
      background-color: lightgray;
      padding: 1% 2%;
@@ -116,4 +116,25 @@ html {
     width: 20%;
     height: auto;
     border-radius: 10%;
+}
+
+/*contact*/
+.contact {
+    font-size: 1.5em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fab {
+    font-size: 2em;
+    margin-right: 1em;
+}
+
+.contact img {
+    width: 40%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 30%;
 }
