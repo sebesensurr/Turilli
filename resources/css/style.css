@@ -181,5 +181,9 @@ html {
         width: 80%;
         margin-left: 8%;
     }
+    
+    .fab {
+        margin: 0.5em;
+    }
 
 }
