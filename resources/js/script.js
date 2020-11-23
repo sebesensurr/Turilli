@@ -1,4 +1,4 @@
-const creatureList = ['Angel', 'Dragon', 'Elf', 'Troll', 'Knight', 'Warrior', 'Unicorn', 'Dwarf', 'King', 'Lord', 'Queen', 'Wizard', 'Swormaster', 'Tyrant', 'Hero', 'Demon'];
+const creatureList = ['Angel', 'Dragon', 'Elf', 'Troll', 'Knight', 'Warrior', 'Unicorn', 'Dwarf', 'King', 'Lord', 'Queen', 'Wizard', 'Swordmaster', 'Tyrant', 'Hero', 'Demon'];
 
 const randomGenerator = base => {
     let rand = Math.floor(Math.random() * base.length)
