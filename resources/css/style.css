@@ -32,8 +32,7 @@ html {
  }
  
  nav a:hover {
-     text-decoration: underline;
-     text-shadow: 2px 2px 3px dimgray;
+     text-shadow: 2px 2px 3px red;
  }
  
  /*main*/
@@ -86,10 +85,11 @@ html {
  .pics {
      display: flex;
      justify-content: space-around;
-     align-content: flex-start;
+     align-items: center;
  }
 
 .pics img {
     width: 20%;
     height: auto;
+    border-radius: 10%;
 }
